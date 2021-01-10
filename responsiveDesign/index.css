@@ -1,0 +1,23 @@
+/**
+* Front End Interview Questions: Responsive Design
+* 
+* Q: What is responsive design and how might you implement it?
+    having your web app be functional and work in multiple screen
+    sizes.
+
+    This is tested or simulated in different devices and many of these 
+    tests are done with media queries.
+
+    There has been other implementations to help with the change of width and
+    height of an application. Such as flexbox which uses its own css properties
+    to set the layout.
+
+    Another aspect of web design isn't just the proper scale of our app horizontally
+    or whatnot but also the sizing of items via using different measurement units.
+    example, rem, em , px or percentages for some of the fonts and images.
+*
+* Bonus Resource: https://scrimba.com/course/gresponsive or
+  Bonus Resource#2: https://www.freecodecamp.org
+
+what are some of your thoughts about responsive design?
+*/
