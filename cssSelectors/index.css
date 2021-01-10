@@ -1,0 +1,30 @@
+/**
+* Front End Interview Questions: CSS Selectors
+* 
+* Q: What are some CSS selectors and how do they differ?
+
+
+The main type of css selectors are classes and IDs.
+
+Classes are meant to be reusables in nature. Meaning one class can be used
+multiple times.
+
+Pseudo selectors specificity is higher than a class but lower than an ID. However,
+you can still attach/connect the pseudo selector with an ID selector. Not use an
+element or class selector.
+
+An ID has a higher specificity than a class and is meant to be use
+a single time. 
+*/
+
+.green {
+    color: green;
+}
+
+#red {
+    color: red;
+}
+
+#red:hover {
+    color: blue;
+}
